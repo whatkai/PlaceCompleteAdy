@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dar/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_13f99bd246f469d91926c0470d6371046413cd2e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_94beb885e9613a2ed3f44acb68cf5db95019e982.jar" />
+    </item>
+    <item
+        jar="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_442e3d1591f0d97ce2ee901657de19d3401d7653.jar" />
+    </item>
+    <item
+        jar="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.1.1_ea579e52ab4080b1983c42df270f8ad257642f5c.jar" />
+    </item>
+    <item
+        jar="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_19da98704fcdff387c478bba47be77052f47c96f.jar" />
+    </item>
+    <item
+        jar="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_a52ad30616010674bfd0f6da9b3f6c6b8eadfdf9.jar" />
+    </item>
+    <item
+        jar="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_d80835a59d4fe5f96907c8dbb578356151f9f9d1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_669ef8b836bf343d6073b5bb3ebe1d6ecfd7bc73/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_cb5218409ed3d7004fa3796ac5fa9a11c88eee9b.jar" />
+    </item>
+    <item
+        jar="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_2f0642c220b8de9b54c3aed14f4b87aaa60a55aa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9563b1f9a543068a8cd7f2e4c8c9a929d926b785">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_092e571f0a7dbcd439899643a40865e3a98c4b87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dar/.android/build-cache/80599ac963eac31585fedb70b6fccdbe2070ed79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2578eda4cd27275faf7a00632c57082f3a07e68e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_9b90e1b85ce42fe6f29d0749481a567180e82a65.jar" />
+    </item>
+    <item
+        jar="/Users/dar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/dar/Documents/in_geico_/_autoComplete/android-play-places/PlaceCompleteAdapter/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_3d27744c40d1bcf1beb91a71f214342be71f1044.jar" />
+    </item>
+
+</items>
